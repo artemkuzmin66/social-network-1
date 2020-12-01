@@ -1,0 +1,7 @@
+.person a {
+   text-decoration: none;
+   color: springgreen;
+}
+.person a.active {
+   color: red;
+}

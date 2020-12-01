@@ -1,0 +1,13 @@
+.bigPhoto {
+   width: 100%;
+   height: 700px;
+   background-size: cover;
+}
+
+.mainPhoto {
+   max-width: 200px;
+}
+
+.contact {
+   padding-left: 10px;
+}
